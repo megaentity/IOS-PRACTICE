@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0D7AB4C41C9CD835002B503F"
-               BuildableName = "Hello World.app"
-               BlueprintName = "Hello World"
-               ReferencedContainer = "container:Hello World.xcodeproj">
+               BlueprintIdentifier = "0D7AB4E61C9CEEFC002B503F"
+               BuildableName = "Cat&apos;s Year.app"
+               BlueprintName = "Cat&apos;s Year"
+               ReferencedContainer = "container:Cat&apos;s Year.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0D7AB4C41C9CD835002B503F"
-            BuildableName = "Hello World.app"
-            BlueprintName = "Hello World"
-            ReferencedContainer = "container:Hello World.xcodeproj">
+            BlueprintIdentifier = "0D7AB4E61C9CEEFC002B503F"
+            BuildableName = "Cat&apos;s Year.app"
+            BlueprintName = "Cat&apos;s Year"
+            ReferencedContainer = "container:Cat&apos;s Year.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0D7AB4C41C9CD835002B503F"
-            BuildableName = "Hello World.app"
-            BlueprintName = "Hello World"
-            ReferencedContainer = "container:Hello World.xcodeproj">
+            BlueprintIdentifier = "0D7AB4E61C9CEEFC002B503F"
+            BuildableName = "Cat&apos;s Year.app"
+            BlueprintName = "Cat&apos;s Year"
+            ReferencedContainer = "container:Cat&apos;s Year.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0D7AB4C41C9CD835002B503F"
-            BuildableName = "Hello World.app"
-            BlueprintName = "Hello World"
-            ReferencedContainer = "container:Hello World.xcodeproj">
+            BlueprintIdentifier = "0D7AB4E61C9CEEFC002B503F"
+            BuildableName = "Cat&apos;s Year.app"
+            BlueprintName = "Cat&apos;s Year"
+            ReferencedContainer = "container:Cat&apos;s Year.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
