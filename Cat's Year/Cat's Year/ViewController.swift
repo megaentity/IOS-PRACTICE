@@ -20,7 +20,7 @@ class ViewController: UIViewController {
         
         var catAge = Int(catAgeTextField.text!)!
         
-        catAge = catAge * 7
+        catAge = catAge *    7
         
         resultLabel.text = "Your cat is \(catAge) in cat years"
         
